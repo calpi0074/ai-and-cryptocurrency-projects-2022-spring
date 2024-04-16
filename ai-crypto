@@ -4,8 +4,6 @@ import pandas as pd
 import datetime
 i = 1
 while i > 0:
-    print ("\n")
-    print ("Orderbook "+"{}".format(i))
     i = i + 1 
     print("\n")
     time.strftime('%c')
